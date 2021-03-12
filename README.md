@@ -34,5 +34,5 @@ ZDP Developers: StableSystem, awsfiu, TJ
 
 Please report any bugs on my discord (Yannick Groot #1834)
 
-This repository and it's contents are protected under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+This repository and it's contents are protected under [CC BY-NC 4.0]( https://creativecommons.org/licenses/by-nc/4.0/ )
 Assets used from other developers was done so with their knowledge and approval. 
