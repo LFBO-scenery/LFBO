@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings -1
+TEXTURE crossing_red.png
+SURFACE asphalt
+SCALE 0.6 1.2

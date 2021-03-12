@@ -1,0 +1,11 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings +1
+
+TEXTURE surface_blanche.png
+ATTR_LOD 0 1000
+ATTR_no_depth
+SURFACE concrete
+SCALE 2.5 2.5
