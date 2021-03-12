@@ -11,7 +11,7 @@ The Beluga linestation I used is from the EGNR scnery made by ZeroDollarPayware 
 https://forum.inibuilds.com/files/file/1655-egnr-hawarden/
 
 **Required Libraries**
-* SAM
+* [SAM](https://forums.x-plane.org/index.php?/files/file/59782-scenery-animation-manager-suite/)
 
 **How to use the Beluga Line Station (BLS)**
 1. Upon landing, taxi to the the beluga line station and follow the instuctions of the marschaller who positiont on the T intersection on front of the line station you want to park in.(That means taht there are 2 marshallers for each linestation 1) 
