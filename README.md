@@ -2,7 +2,7 @@
 
 DISCLAIMER!! !!This scenery is made/modified by an amateur and not by ZeroDollarPayware!! They made it clear that they don't suport this scenery and have nothing to do with it
 
-This scenery I used is from the scenery-gateway and I didn't made it myself https://gateway.x-plane.com/airports/EDHI/show
+This scenery we used is from fafa31 found here: https://forums.x-plane.org/index.php?/files/file/29740-toulouse-city-with-lfbo-lfbf-lfbr-lfcl-and-lfit/
 
 The Beluga linestation I used is from the EGNR scenery made by ZeroDollarPayware I just copy pasted everithing of it. https://forum.inibuilds.com/files/file/1655-egnr-hawarden/
 
@@ -11,6 +11,7 @@ Required Libraries
 The fruit stand aircraft library
 The faib aircraft library
 SAM
+OpenScenery X
 How to use the Beluga Line Station (BLS)
 
 Upon landing, taxi to the the beluga line station and follow the instuctions of the marschaller who is in front of the Beluga line station
