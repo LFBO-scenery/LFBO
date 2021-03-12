@@ -11,8 +11,6 @@ The Beluga linestation I used is from the EGNR scnery made by ZeroDollarPayware 
 https://forum.inibuilds.com/files/file/1655-egnr-hawarden/
 
 **Required Libraries**
-* The fruit stand aircraft library
-* The faib aircraft library
 * SAM
 
 **How to use the Beluga Line Station (BLS)**
