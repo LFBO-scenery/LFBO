@@ -1,0 +1,6 @@
+LFBF: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)
+LFCL: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)
+LFBR: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)
+LFIT: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)
+HTPP: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)
+HTRP: Metadata key 'GUI Label' does not match current (2D) scenery content (warning only)

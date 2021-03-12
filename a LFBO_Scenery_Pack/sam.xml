@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<scenery name="LFBO Aéroport de Toulouse-Blagnac" locked="false">
+  <datarefs>
+    <dataref name="sam/zdp-lfbo/XLDoors" label="XLDoors" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="0" />
+      <animation t="50" v="10" />
+    </dataref>
+    <dataref name="sam/zdp-lfbo/STDoors" label="STDoors" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="0" />
+      <animation t="50" v="10" />
+    </dataref>
+  </datarefs>
+  <objects>
+    <instance id="Beluga ST Doors1" latitude="43.625370854000003" longitude="1.3572990300000001" elevation="4.9930642992258072" heading="322.69999999999999" />
+    <instance id="Beluga ST Doors2" latitude="43.626101702" longitude="1.358640925" elevation="4.9930642992258072" heading="322.69999999999999" />
+    <instance id="Beluga XL Doors1" latitude="43.625370854000003" longitude="1.3572990300000001" elevation="4.9930642992258072" heading="322.69999999999999" />
+    <instance id="Beluga XL Doors2" latitude="43.626101702" longitude="1.358640925" elevation="4.9930642992258072" heading="322.69999999999999" />
+  </objects>
+  <jetwayDescriptions />
+  <jetways />
+  <docks>
+    <dock id="Beluga line station 1" latitude="43.6246256737507" longitude="1.3580763224563419" elevation="153.37843003310263" heading="233.17642211914063" fixed="false" dockLatitude="43.6247562360685" dockLongitude="1.3583139650146907" dockHeading="233.09005737304688" />
+    <dock id="Beluga line station 2" latitude="43.62535763856426" longitude="1.3594172273286329" elevation="152.69702394399792" heading="233.44467163085938" fixed="false" dockLatitude="43.625487282985752" dockLongitude="1.3596532957418215" dockHeading="233.18695068359375" />
+  </docks>
+  <gui>
+    <checkbox label="Open/Close" instance="Beluga ST Doors1" title="Beluga ST Doors 1" description="Beluga ST Doors 1" dataref="sam/zdp-lfbo/STDoors" />
+    <checkbox label="Open/Close" instance="Beluga XL Doors1" title="Beluga XL Doors 1" description="Beluga XL Doors 1" dataref="sam/zdp-lfbo/XLDoors" />
+    <checkbox label="Open/Close" instance="Beluga ST Doors2" title="Beluga ST Doors 2" description="Beluga ST Doors 2" dataref="sam/zdp-lfbo/STDoors" />
+    <checkbox label="Open/Close" instance="Beluga XL Doors2" title="Beluga XL Doors 2" description="Beluga XL Doors 2" dataref="sam/zdp-lfbo/XLDoors" />
+  </gui>
+  <static_aircrafts />
+</scenery>

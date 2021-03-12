@@ -1,0 +1,142 @@
+==== v2020 ====
+X-Plane 11.30+
+Release: ... 
+
+ - ALL: 11.30 format for apt.dat
+ - ALL: Using OpenSceneryX v4.4.0
+ - All: update ATC Frequencies
+ - ALL: New Marco(XPFR) cars in scenery
+ - ALL: Optimizing apt.dat file with WED documentation 
+ - ALL: Using apt.dat ground vehicule instead of GroundTraffic plugin
+ - ALL: A lot's of texture repaint with more detail and close to reality
+ - LFBO: apt.dat update to 2019 taxi
+ - LFBO: New object (M70, B55, B75, B80)
+ - LFBO: Object redesigned (Bikini, Lagardère...) 
+ - LFBO: New ground sign (Airbus)
+ - LFBO: parking update (P0, P1...) + tramway
+ - LFBR: new ENAC buildind and new ENAC parking
+ - LFCL: Realign runway to Google maps texture
+ - LFCL: add grass runway plot
+ - LFIT: update and enancement
+ - Toulouse: New Objects (Les Abatoirs, La Halle au Grain)
+ - Real Toulouse-Purpan Heliport for SAMU
+
+==== v3.1 ====
+X-Plane 10.50
+Release: Nov 2016
+
+ - ALL: 10.50 format for apt.dat
+ - ALL: Add OSM part for the scenery
+ - ALL: Using 3D people library and R2 Library
+ - LFBO: Improuve visual render, add/update some 3D building and update some texture...
+ - LFBO: Rebuild all parking with default XP's cars
+ - LFBO: Autogate update to 1.71
+ - LFBR: Upgrade of object to X-Plane format and Building update
+ - LFBR: Remove "XP Air" training center because the company no more exist
+ - LFCL: Upgrade of object to X-Plane format and Building update (give the right size to them)
+ - Toulouse-Rangueil: Rebuild all the 3D objects, new HTPR heliport with more details
+ - Toulouse: New Objects (St Pierre Bridge, Hall departement, Central Police Station, Matabiau Station, Ile Ramier...)
+ - Toulouse: Object update (Sports Center, Mediathèque, Toulouse University 1...)
+
+==== v3.0 ====
+X-Plane 10.42
+Release: Dec 2015 	
+
+ - Switch to X-Plane v10 format
+ - Add lights on all the scenary's airports
+ - LFBO: Update apt.dat by cigaloi30 & add taxying routes
+ - LFBO: Airport update to 2015 (New buildings...)
+ - LFBO: Add ground traffic by « Jojo64 »
+ - LFBO: Autogate update to 1.60
+ - LFBO: files for "X-Life" plugin
+ - LFBF: Airport update to 2015
+ - LFBF: Update apt.dat by cigaloi30 & add taxying routes
+ - LFCL: Update apt.dat by cigaloi30 & add taxying routes
+ - LFBR: update apt.dat by cigaloi30 & add taxying routes
+
+==== v2.1 ====
+X-Plane v8.5 & v9(only DSF Format)
+Release: Mar 2012 
+
+ - LFBF: Convert to Civilian version
+ - LFBF: New SAG for the "Gendarmerie"
+ - LFBF: Add 1st RTP buildings
+ - LFBO: Add Hall D to Blagnac Terminal
+ - LFBO: update for ground marking and taxi signs
+ - LFBO: New Fuel zone
+ - Touslouse: New 3D objects for the town center (Donjon, Sciences University, Mirail's incinerator)
+
+==== v2.02
+X-Plane v8.5 & v9 (only DSF Format)
+Release: Nov 2010
+
+ - HTPP: New helipad at Purpan. The old one has been deleted as it has been closed
+ - LFBF: the "Gendarmerie" helipad move to the new position
+
+==== v2.01 :
+X-Plane v8.5 & v9 (only DSF Format)
+Release: Nov 2010
+
+ - LFBO and LFBR have an ATIS and a tower ;) !!!
+ - Radio Freq updated to new one
+
+==== v2.0 ====	
+X-Plane v8.5 & v9 (only DSF Format)
+Release: Dec 2008
+
+ - Upgrade to v9 formats
+ - LFBO: More details on Blagnac's Airport and new statics aircrafts placement.
+ - Toulouse: New 3D objects for the town center
+ - "Rangueil" Hospital drawn
+ - LFCL: new design
+
+==== v1.5 ====
+X-Plane v7 & v8.5 (ENV & DSF Format)
+Release: Nov 2007
+
+ - New Apt.dat 850 format for all airport
+ - LFBO: new 3D building...
+ - LFBO: add Marginal's Autogate ;)
+ - LFBO: new ground marking and taxi signs
+ - LFBR: New Hangar and taxiway update
+ - New static airplane (Thank's Beber)
+ - Some little change on the 3D town (Stadium, 3D building...)
+ 
+apt.dat update on Oct 2008 due to an update with X-plane 9.21Rc2  
+
+==== v1.4 ====
+X-Plane v7 & v8.5 (ENV & DSF Format)
+Release: May 2007
+
+ - Upgrade ENV to DSF
+ - LFBO: Correction of bogs from v1.3
+ - LFBF: Improve the airbase
+ - LFBF: Add some texture polygons
+ - LFBR: Add "XP Air" training center
+ - LFCL: go back to his original position
+ - LFCL: Add some texture polygons
+ - Toulouse: correct bug from "Cité de l'Espace" import from FS
+
+==== v1.3 ====
+X-Plane v.7 & v8 (ENV & DSF Format)
+Release: Nov 2006
+
+ - LFBR: Import of Muret-Lherm from P. Castay (FS2004)
+ - Toulouse: Import from "Cité de l'Espace" from Vincent Meens (FS2004)
+ - Update of the terminal 2 of Blagnac more realist
+ - LFBF: Airbase 101 Francazal with real taxiways (current taxilines or buildingsnot in scenary)
+ - Add the 2 heliport: Purpan and Rangueil
+
+==== v1.1 ====
+X-Plane v.7 (ENV & DSF Format)
+Release: Mar 2006
+
+ - LFBO: Add some new 3D objects (New Tower,  A340/A330 bulding, Fret, some ground vehicule, Aéroconstellation...)
+ - Add some 3D Building in Toulouse (St Sernin, St Etienne, Mediatèque)
+ - LFCL: Import from FS scenary
+	
+==== v1.0 ====
+X-Plane V6.5 (ENV Format)
+Release: Février 2005
+
+Initial version build from bibounde5's scenary:
