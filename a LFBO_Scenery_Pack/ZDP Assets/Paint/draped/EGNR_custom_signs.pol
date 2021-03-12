@@ -1,0 +1,69 @@
+A
+850
+DRAPED_POLYGON
+
+#STOP SLOW red background
+#subtex	0.001	0.891	0.138	0.999
+#subtex	0.138	0.891	0.293	0.999
+
+#text	
+#subtex	0.294	0.891	0.371	0.975
+#subtex	0.371	0.891	0.569	0.975
+#subtex	0.569	0.891	0.790	0.975
+
+#subtex	0.001	0.805	0.132	0.889
+#subtex	0.132	0.805	0.272	0.889
+#subtex	0.272	0.805	0.413	0.889
+#subtex	0.413	0.805	0.580	0.889
+#subtex	0.580	0.805	0.688	0.889
+#subtex	0.688	0.805	0.827	0.889
+
+#subtex	0.001	0.720	0.201	0.805
+#subtex	0.201	0.720	0.342	0.805
+#subtex	0.342	0.720	0.451	0.805
+#subtex	0.451	0.720	0.584	0.805
+#subtex	0.584	0.720	0.771	0.805
+
+#subtex	0.001	0.625	0.274	0.720
+#subtex	0.274	0.625	0.427	0.720
+
+#numbers
+#subtex	0.432	0.625	0.466	0.720
+#subtex	0.466	0.625	0.500	0.720
+#subtex	0.500	0.625	0.539	0.720
+#subtex	0.539	0.625	0.576	0.720
+#subtex	0.576	0.625	0.613	0.720
+#subtex	0.613	0.625	0.650	0.720
+#subtex	0.650	0.625	0.686	0.720
+#subtex	0.686	0.625	0.722	0.720
+#subtex	0.722	0.625	0.759	0.720
+#subtex	0.759	0.625	0.792	0.720
+
+#arrow and speed limits
+#subtex	0.827	0.711	0.877	0.999
+#subtex	0.879	0.623	0.999	0.999
+#subtex	0.879	0.245	0.999	0.623
+
+#yield and rwy signs
+#subtex	0.001	0.200	0.090	0.625
+#subtex	0.091	0.126	0.312	0.625
+#subtex	0.314	0.126	0.562	0.625
+#subtex	0.564	0.402	0.739	0.625
+#subtex	0.564	0.203	0.750	0.400
+
+#MLG markings
+#subtex	0.758	0.401	0.868	0.620
+#subtex	0.563	0.121	0.750	0.200
+#subtex	0.563	0.039	0.750	0.118
+
+#A300ST ONLY
+#subtex	0.091	0.454	0.312	0.625
+#subtex	0.091	0.126	0.312	0.300
+
+
+LAYER_GROUP markings
+TEXTURE_NOWRAP EGNR_custom_signs.png
+TEXTURE_NORMAL 1.0 paint_NML_1K.png
+SURFACE concrete
+SCALE 20 20
+

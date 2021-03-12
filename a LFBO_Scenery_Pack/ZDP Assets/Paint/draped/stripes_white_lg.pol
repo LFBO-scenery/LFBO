@@ -1,0 +1,9 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP markings
+
+TEXTURE stripes_white.png
+TEXTURE_NORMAL 1.0 paint_NML_1K.png
+SURFACE asphalt
+SCALE 8 8

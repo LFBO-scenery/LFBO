@@ -1,0 +1,9 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP markings +1
+
+TEXTURE textures/paint_white_cracks.png
+TEXTURE_NORMAL 1.0 textures/paint_cracks_NML.png
+SURFACE asphalt
+SCALE 15 15
