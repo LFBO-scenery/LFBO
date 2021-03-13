@@ -160,28 +160,28 @@ IDX	130
 IDX	131
 
 	ANIM_begin
-	ANIM_trans_begin	sam/zdp-egnr/STDoors
+	ANIM_trans_begin	sam/zdp-lfbo/STDoors
 	ANIM_trans_key	0	0	0	-0.2
 	ANIM_trans_key	10	-6.5	0	-0.2
 	ANIM_trans_end
 	TRIS	0 30
 	ANIM_end
 	ANIM_begin
-	ANIM_trans_begin	sam/zdp-egnr/XLDoors
+	ANIM_trans_begin	sam/zdp-lfbo/XLDoors
 	ANIM_trans_key	0	0	0	-0.2
 	ANIM_trans_key	10	6.5	0	-0.2
 	ANIM_trans_end
 	TRIS	30 36
 	ANIM_end
 	ANIM_begin
-	ANIM_trans_begin	sam/zdp-egnr/XLDoors
+	ANIM_trans_begin	sam/zdp-lfbo/XLDoors
 	ANIM_trans_key	0	0	0	-0.2
 	ANIM_trans_key	10	-6.5	0	-0.2
 	ANIM_trans_end
 	TRIS	66 30
 	ANIM_end
 	ANIM_begin
-	ANIM_trans_begin	sam/zdp-egnr/STDoors
+	ANIM_trans_begin	sam/zdp-lfbo/STDoors
 	ANIM_trans_key	0	0	0	-0.2
 	ANIM_trans_key	10	6.5	0	-0.2
 	ANIM_trans_end
